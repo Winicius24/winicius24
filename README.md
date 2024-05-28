@@ -1,16 +1,15 @@
-## Hi there 👋
+## Ola! seja muita bem vindo ao meu perfil ! 👋🍪
 
-<!--
-**Winicius24/winicius24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é winicius costa
 
-Here are some ideas to get you started:
+  * Estou estodando o [alura](https://www.alura.com.br)
+  * Estou me desenvolvendo no javaScript
+  * Utilizando esse espaço pra minha organização e compartilhamento dos meus projetos desenvolvimento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  você entra em contato comigo📧
+
+winiciuscostasoares701@gmail.com
+@wini_zx
+
+
+![](https://media1.tenor.com/m/BP70qe8X0J8AAAAC/crycat-crying-cat.gif)
